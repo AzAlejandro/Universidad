@@ -1,0 +1,64 @@
+---
+title: "asda"
+author: |
+        | Alumno : Alejandro Mendez Miranda  
+        | Profesor : Jorge Castillo Sepúlveda
+          
+
+output: pdf_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# **Introducción**
+***
+Spice and Wolf (狼と香辛料, Ōkami to Kōshinryō) es una serie de novelas ligeras japonesas escritas por Isuna Hasekura. La publicación de las novelas comenzaron el 2006 y hasta el día de hoy lleva 23 novelas escritas, siendo una de las novelas más leídas en Japón. 
+
+Aprovechando el trabajo que realicé ayudando en la traducción de la novela al español, mi fanatismo por la serie y la necesidad de realizar un análisis para el ramo de PNL del magister en Data Science de la Universidad del Desarrollo realizaré el análisis de sentimientos del mundo de las novelas de Spice and Wolf para analizar como escribe el autor.
+
+Para este informe se siguió el trabajo de [Xavier](https://www.kaggle.com/xvivancos) en sus análisis de [Star Wars](https://www.kaggle.com/xvivancos/analyzing-star-wars-movie-scripts) y [Lord of the Rings](https://www.kaggle.com/xvivancos/analyzing-the-lord-of-the-rings-data).
+
+
+![](EisJLXFVkAAZN1c.jpg "Title")
+
+# **Carga de librerías y archivos**
+***
+Para la obtención del texto de las novelas se realizó la transcripción de las 23 novelas ligeras a archivos de texto. Junto a estos archivos de texto se realizó la carga de los léxicos (o lexicon en inglés) para realizar el análisis de sentimientos. Además, para este trabajo se necesitó herramientas de text mining, manipulación de dataframes, entre otros, especificados a continuación:
+
+```{r message=FALSE, warning=FALSE}
+
+#Se cargan las librerías
+library(tidyverse) #Manipulación de datos
+library(tm) #Text mining
+library(wordcloud) #Generador de nube de palabras
+library(wordcloud2) #Generador de nube de palabras
+library(tidytext) #Text mining y procesado de palabras
+library(reshape2) #Modificación a dataframes
+library(RWeka) #Data Mining y tokenizador
+library(knitr) #Generación de markdowns
+library(readtext) #Para la lectura de los txt
+library(kableExtra)
+
+
+#Se cargan los archivos
+FILEDIR = "data_holo/PDF/"
+filenames <- list.files(FILEDIR)
+filenames <- gsub(".txt$", "", filenames)
+txts <- readtext(FILEDIR)
+
+#Se cargan los léxicos para el análisis de sentimiento
+bing <- read_csv("data/lexi/Bing.csv")
+nrc <- read_csv("data/lexi/NRC.csv")
+afinn <- read_csv("data/lexi/Afinn.csv")
+
+```
+
+
+# **Preprocesado de las novelas**
+***
+Antes de realizar cualquier análisis es necesario ordenar las columnas según su orden de publicación. Además se debe limpiar el texto para poder utilizarlo. La limpieza consistirá en eliminar carácteres extraños, tabulaciones, espacios, saltos de línea, números, juntar palabras, eliminar stopwords y puntuaciones.
+
