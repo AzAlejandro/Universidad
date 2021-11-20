@@ -1,0 +1,714 @@
+Source,Target,Type,Id,Label,timeset,Weight,comunas
+Metropolitano Sur,1,Undirected,1418,,,1,BUIN
+Metropolitano Sur,2,Undirected,1419,,,1,BUIN
+Metropolitano Sur,3,Undirected,1420,,,1,BUIN
+Metropolitano Sur,4,Undirected,1421,,,1,BUIN
+Metropolitano Sur,5,Undirected,1422,,,1,BUIN
+Metropolitano Sur,6,Undirected,1423,,,1,BUIN
+Metropolitano Sur,7,Undirected,1424,,,1,CALERA DE TANGO
+Metropolitano Sur,8,Undirected,1425,,,1,CALERA DE TANGO
+Metropolitano Central,9,Undirected,1426,,,1,CERRILLOS
+Metropolitano Central,10,Undirected,1427,,,1,CERRILLOS
+Metropolitano Central,11,Undirected,1428,,,1,CERRILLOS
+Metropolitano Central,12,Undirected,1429,,,1,CERRILLOS
+Metropolitano Central,13,Undirected,1430,,,1,CERRILLOS
+Metropolitano Occidente,14,Undirected,1431,,,1,CERRO NAVIA
+Metropolitano Occidente,15,Undirected,1432,,,1,CERRO NAVIA
+Metropolitano Occidente,16,Undirected,1433,,,1,CERRO NAVIA
+Metropolitano Occidente,17,Undirected,1434,,,1,CERRO NAVIA
+Metropolitano Occidente,18,Undirected,1435,,,1,CERRO NAVIA
+Metropolitano Occidente,19,Undirected,1436,,,1,CERRO NAVIA
+Metropolitano Norte,20,Undirected,1437,,,1,COLINA
+Metropolitano Norte,21,Undirected,1438,,,1,COLINA
+Metropolitano Norte,22,Undirected,1439,,,1,COLINA
+Metropolitano Norte,23,Undirected,1440,,,1,COLINA
+Metropolitano Norte,24,Undirected,1441,,,1,COLINA
+Metropolitano Norte,25,Undirected,1442,,,1,COLINA
+Metropolitano Norte,26,Undirected,1443,,,1,COLINA
+Metropolitano Norte,27,Undirected,1444,,,1,COLINA
+Metropolitano Norte,28,Undirected,1445,,,1,COLINA
+Metropolitano Norte,29,Undirected,1446,,,1,COLINA
+Metropolitano Norte,30,Undirected,1447,,,1,CONCHALI
+Metropolitano Norte,31,Undirected,1448,,,1,CONCHALI
+Metropolitano Norte,32,Undirected,1449,,,1,CONCHALI
+Metropolitano Norte,33,Undirected,1450,,,1,CONCHALI
+Metropolitano Norte,34,Undirected,1451,,,1,CONCHALI
+Metropolitano Norte,35,Undirected,1452,,,1,CONCHALI
+Metropolitano Norte,36,Undirected,1453,,,1,CONCHALI
+Metropolitano Norte,37,Undirected,1454,,,1,CONCHALI
+Metropolitano Occidente,38,Undirected,1455,,,1,CURACAVI
+Metropolitano Occidente,39,Undirected,1456,,,1,CURACAVI
+Metropolitano Occidente,40,Undirected,1457,,,1,CURACAVI
+Metropolitano Sur,41,Undirected,1458,,,1,EL BOSQUE
+Metropolitano Sur,42,Undirected,1459,,,1,EL BOSQUE
+Metropolitano Sur,43,Undirected,1460,,,1,EL BOSQUE
+Metropolitano Sur,44,Undirected,1461,,,1,EL BOSQUE
+Metropolitano Sur,45,Undirected,1462,,,1,EL BOSQUE
+Metropolitano Sur,46,Undirected,1463,,,1,EL BOSQUE
+Metropolitano Sur,47,Undirected,1464,,,1,EL BOSQUE
+Metropolitano Sur,48,Undirected,1465,,,1,EL BOSQUE
+Metropolitano Sur,49,Undirected,1466,,,1,EL BOSQUE
+Metropolitano Sur,50,Undirected,1467,,,1,EL BOSQUE
+Metropolitano Central,51,Undirected,1468,,,1,ESTACION CENTRAL
+Metropolitano Central,52,Undirected,1469,,,1,ESTACION CENTRAL
+Metropolitano Central,53,Undirected,1470,,,1,ESTACION CENTRAL
+Metropolitano Central,54,Undirected,1471,,,1,ESTACION CENTRAL
+Metropolitano Central,55,Undirected,1472,,,1,ESTACION CENTRAL
+Metropolitano Central,56,Undirected,1473,,,1,ESTACION CENTRAL
+Metropolitano Central,57,Undirected,1474,,,1,ESTACION CENTRAL
+Metropolitano Central,58,Undirected,1475,,,1,ESTACION CENTRAL
+Metropolitano Central,59,Undirected,1476,,,1,ESTACION CENTRAL
+Metropolitano Central,60,Undirected,1477,,,1,ESTACION CENTRAL
+Metropolitano Central,61,Undirected,1478,,,1,ESTACION CENTRAL
+Metropolitano Central,62,Undirected,1479,,,1,ESTACION CENTRAL
+Metropolitano Central,63,Undirected,1480,,,1,ESTACION CENTRAL
+Metropolitano Central,64,Undirected,1481,,,1,ESTACION CENTRAL
+Metropolitano Central,65,Undirected,1482,,,1,ESTACION CENTRAL
+Metropolitano Central,66,Undirected,1483,,,1,ESTACION CENTRAL
+Metropolitano Norte,67,Undirected,1484,,,1,HUECHURABA
+Metropolitano Norte,68,Undirected,1485,,,1,HUECHURABA
+Metropolitano Norte,69,Undirected,1486,,,1,HUECHURABA
+Metropolitano Norte,70,Undirected,1487,,,1,HUECHURABA
+Metropolitano Norte,71,Undirected,1488,,,1,HUECHURABA
+Metropolitano Norte,72,Undirected,1489,,,1,HUECHURABA
+Metropolitano Norte,73,Undirected,1490,,,1,HUECHURABA
+Metropolitano Norte,74,Undirected,1491,,,1,HUECHURABA
+Metropolitano Norte,75,Undirected,1492,,,1,INDEPENDENCIA
+Metropolitano Norte,76,Undirected,1493,,,1,INDEPENDENCIA
+Metropolitano Norte,77,Undirected,1494,,,1,INDEPENDENCIA
+Metropolitano Norte,78,Undirected,1495,,,1,INDEPENDENCIA
+Metropolitano Norte,79,Undirected,1496,,,1,INDEPENDENCIA
+Metropolitano Norte,80,Undirected,1497,,,1,INDEPENDENCIA
+Metropolitano Norte,81,Undirected,1498,,,1,INDEPENDENCIA
+Metropolitano Norte,82,Undirected,1499,,,1,INDEPENDENCIA
+Metropolitano Occidente,83,Undirected,1500,,,1,ISLA DE MAIPO
+Metropolitano Occidente,84,Undirected,1501,,,1,ISLA DE MAIPO
+Metropolitano Occidente,85,Undirected,1502,,,1,ISLA DE MAIPO
+Metropolitano Sur,86,Undirected,1503,,,1,LA CISTERNA
+Metropolitano Sur,87,Undirected,1504,,,1,LA CISTERNA
+Metropolitano Sur,88,Undirected,1505,,,1,LA CISTERNA
+Metropolitano Sur,89,Undirected,1506,,,1,LA CISTERNA
+Metropolitano Sur,90,Undirected,1507,,,1,LA CISTERNA
+Metropolitano Sur,91,Undirected,1508,,,1,LA CISTERNA
+Metropolitano Sur,92,Undirected,1509,,,1,LA CISTERNA
+Metropolitano Sur,93,Undirected,1510,,,1,LA CISTERNA
+Metropolitano Sur,94,Undirected,1511,,,1,LA CISTERNA
+Metropolitano Sur,95,Undirected,1512,,,1,LA CISTERNA
+Metropolitano Sur,96,Undirected,1513,,,1,LA CISTERNA
+Metropolitano Suroriente,97,Undirected,1514,,,1,LA FLORIDA
+Metropolitano Suroriente,98,Undirected,1515,,,1,LA FLORIDA
+Metropolitano Suroriente,99,Undirected,1516,,,1,LA FLORIDA
+Metropolitano Suroriente,100,Undirected,1517,,,1,LA FLORIDA
+Metropolitano Suroriente,101,Undirected,1518,,,1,LA FLORIDA
+Metropolitano Suroriente,102,Undirected,1519,,,1,LA FLORIDA
+Metropolitano Suroriente,103,Undirected,1520,,,1,LA FLORIDA
+Metropolitano Suroriente,104,Undirected,1521,,,1,LA FLORIDA
+Metropolitano Suroriente,105,Undirected,1522,,,1,LA FLORIDA
+Metropolitano Suroriente,106,Undirected,1523,,,1,LA FLORIDA
+Metropolitano Suroriente,107,Undirected,1524,,,1,LA FLORIDA
+Metropolitano Suroriente,108,Undirected,1525,,,1,LA FLORIDA
+Metropolitano Suroriente,109,Undirected,1526,,,1,LA FLORIDA
+Metropolitano Suroriente,110,Undirected,1527,,,1,LA FLORIDA
+Metropolitano Suroriente,111,Undirected,1528,,,1,LA FLORIDA
+Metropolitano Suroriente,112,Undirected,1529,,,1,LA FLORIDA
+Metropolitano Suroriente,113,Undirected,1530,,,1,LA FLORIDA
+Metropolitano Suroriente,114,Undirected,1531,,,1,LA FLORIDA
+Metropolitano Suroriente,115,Undirected,1532,,,1,LA FLORIDA
+Metropolitano Suroriente,116,Undirected,1533,,,1,LA FLORIDA
+Metropolitano Suroriente,117,Undirected,1534,,,1,LA FLORIDA
+Metropolitano Suroriente,118,Undirected,1535,,,1,LA FLORIDA
+Metropolitano Suroriente,119,Undirected,1536,,,1,LA FLORIDA
+Metropolitano Suroriente,120,Undirected,1537,,,1,LA FLORIDA
+Metropolitano Suroriente,121,Undirected,1538,,,1,LA FLORIDA
+Metropolitano Suroriente,122,Undirected,1539,,,1,LA FLORIDA
+Metropolitano Suroriente,123,Undirected,1540,,,1,LA FLORIDA
+Metropolitano Suroriente,124,Undirected,1541,,,1,LA FLORIDA
+Metropolitano Suroriente,125,Undirected,1542,,,1,LA FLORIDA
+Metropolitano Suroriente,126,Undirected,1543,,,1,LA FLORIDA
+Metropolitano Suroriente,127,Undirected,1544,,,1,LA FLORIDA
+Metropolitano Suroriente,128,Undirected,1545,,,1,LA FLORIDA
+Metropolitano Suroriente,129,Undirected,1546,,,1,LA FLORIDA
+Metropolitano Suroriente,130,Undirected,1547,,,1,LA FLORIDA
+Metropolitano Suroriente,131,Undirected,1548,,,1,LA FLORIDA
+Metropolitano Suroriente,132,Undirected,1549,,,1,LA FLORIDA
+Metropolitano Suroriente,133,Undirected,1550,,,1,LA FLORIDA
+Metropolitano Suroriente,134,Undirected,1551,,,1,LA FLORIDA
+Metropolitano Suroriente,135,Undirected,1552,,,1,LA FLORIDA
+Metropolitano Suroriente,136,Undirected,1553,,,1,LA FLORIDA
+Metropolitano Suroriente,137,Undirected,1554,,,1,LA FLORIDA
+Metropolitano Suroriente,138,Undirected,1555,,,1,LA FLORIDA
+Metropolitano Suroriente,139,Undirected,1556,,,1,LA GRANJA
+Metropolitano Suroriente,140,Undirected,1557,,,1,LA GRANJA
+Metropolitano Suroriente,141,Undirected,1558,,,1,LA GRANJA
+Metropolitano Suroriente,142,Undirected,1559,,,1,LA GRANJA
+Metropolitano Suroriente,143,Undirected,1560,,,1,LA PINTANA
+Metropolitano Suroriente,144,Undirected,1561,,,1,LA PINTANA
+Metropolitano Suroriente,145,Undirected,1562,,,1,LA PINTANA
+Metropolitano Suroriente,146,Undirected,1563,,,1,LA PINTANA
+Metropolitano Suroriente,147,Undirected,1564,,,1,LA PINTANA
+Metropolitano Oriente,148,Undirected,1565,,,1,LA REINA
+Metropolitano Oriente,149,Undirected,1566,,,1,LA REINA
+Metropolitano Oriente,150,Undirected,1567,,,1,LA REINA
+Metropolitano Oriente,151,Undirected,1568,,,1,LA REINA
+Metropolitano Oriente,152,Undirected,1569,,,1,LA REINA
+Metropolitano Oriente,153,Undirected,1570,,,1,LA REINA
+Metropolitano Oriente,154,Undirected,1571,,,1,LA REINA
+Metropolitano Oriente,155,Undirected,1572,,,1,LA REINA
+Metropolitano Oriente,156,Undirected,1573,,,1,LA REINA
+Metropolitano Oriente,157,Undirected,1574,,,1,LA REINA
+Metropolitano Oriente,158,Undirected,1575,,,1,LO BARNECHEA
+Metropolitano Oriente,159,Undirected,1576,,,1,LA REINA
+Metropolitano Oriente,160,Undirected,1577,,,1,LA REINA
+Metropolitano Oriente,161,Undirected,1578,,,1,LA REINA
+Metropolitano Norte,162,Undirected,1579,,,1,LAMPA
+Metropolitano Norte,163,Undirected,1580,,,1,LAMPA
+Metropolitano Norte,164,Undirected,1581,,,1,LAMPA
+Metropolitano Norte,165,Undirected,1582,,,1,LAMPA
+Metropolitano Norte,166,Undirected,1583,,,1,LAMPA
+Metropolitano Oriente,167,Undirected,1584,,,1,LAS CONDES
+Metropolitano Oriente,168,Undirected,1585,,,1,LAS CONDES
+Metropolitano Oriente,169,Undirected,1586,,,1,LAS CONDES
+Metropolitano Oriente,170,Undirected,1587,,,1,LAS CONDES
+Metropolitano Oriente,171,Undirected,1588,,,1,LAS CONDES
+Metropolitano Oriente,172,Undirected,1589,,,1,LAS CONDES
+Metropolitano Oriente,173,Undirected,1590,,,1,LAS CONDES
+Metropolitano Oriente,174,Undirected,1591,,,1,LAS CONDES
+Metropolitano Oriente,175,Undirected,1592,,,1,LAS CONDES
+Metropolitano Oriente,176,Undirected,1593,,,1,LAS CONDES
+Metropolitano Oriente,177,Undirected,1594,,,1,LAS CONDES
+Metropolitano Oriente,178,Undirected,1595,,,1,LAS CONDES
+Metropolitano Oriente,179,Undirected,1596,,,1,LAS CONDES
+Metropolitano Oriente,180,Undirected,1597,,,1,LAS CONDES
+Metropolitano Oriente,181,Undirected,1598,,,1,LAS CONDES
+Metropolitano Oriente,182,Undirected,1599,,,1,LAS CONDES
+Metropolitano Oriente,183,Undirected,1600,,,1,LAS CONDES
+Metropolitano Oriente,184,Undirected,1601,,,1,LAS CONDES
+Metropolitano Oriente,185,Undirected,1602,,,1,LAS CONDES
+Metropolitano Oriente,186,Undirected,1603,,,1,LAS CONDES
+Metropolitano Oriente,187,Undirected,1604,,,1,LAS CONDES
+Metropolitano Oriente,188,Undirected,1605,,,1,LAS CONDES
+Metropolitano Oriente,189,Undirected,1606,,,1,LAS CONDES
+Metropolitano Oriente,190,Undirected,1607,,,1,LAS CONDES
+Metropolitano Oriente,191,Undirected,1608,,,1,LAS CONDES
+Metropolitano Oriente,192,Undirected,1609,,,1,LAS CONDES
+Metropolitano Oriente,193,Undirected,1610,,,1,LAS CONDES
+Metropolitano Oriente,194,Undirected,1611,,,1,LAS CONDES
+Metropolitano Oriente,195,Undirected,1612,,,1,LAS CONDES
+Metropolitano Oriente,196,Undirected,1613,,,1,LAS CONDES
+Metropolitano Oriente,197,Undirected,1614,,,1,LAS CONDES
+Metropolitano Oriente,198,Undirected,1615,,,1,LAS CONDES
+Metropolitano Oriente,199,Undirected,1616,,,1,LAS CONDES
+Metropolitano Oriente,200,Undirected,1617,,,1,LAS CONDES
+Metropolitano Oriente,201,Undirected,1618,,,1,LAS CONDES
+Metropolitano Oriente,202,Undirected,1619,,,1,LO BARNECHEA
+Metropolitano Oriente,203,Undirected,1620,,,1,LAS CONDES
+Metropolitano Oriente,204,Undirected,1621,,,1,LAS CONDES
+Metropolitano Oriente,205,Undirected,1622,,,1,LAS CONDES
+Metropolitano Oriente,206,Undirected,1623,,,1,LAS CONDES
+Metropolitano Oriente,207,Undirected,1624,,,1,LAS CONDES
+Metropolitano Oriente,208,Undirected,1625,,,1,LAS CONDES
+Metropolitano Oriente,209,Undirected,1626,,,1,LAS CONDES
+Metropolitano Oriente,210,Undirected,1627,,,1,LAS CONDES
+Metropolitano Oriente,211,Undirected,1628,,,1,LAS CONDES
+Metropolitano Oriente,212,Undirected,1629,,,1,LAS CONDES
+Metropolitano Oriente,213,Undirected,1630,,,1,LAS CONDES
+Metropolitano Oriente,214,Undirected,1631,,,1,LAS CONDES
+Metropolitano Oriente,215,Undirected,1632,,,1,LAS CONDES
+Metropolitano Oriente,216,Undirected,1633,,,1,LAS CONDES
+Metropolitano Oriente,217,Undirected,1634,,,1,LAS CONDES
+Metropolitano Oriente,218,Undirected,1635,,,1,LAS CONDES
+Metropolitano Oriente,219,Undirected,1636,,,1,LO BARNECHEA
+Metropolitano Oriente,220,Undirected,1637,,,1,LO BARNECHEA
+Metropolitano Oriente,221,Undirected,1638,,,1,LO BARNECHEA
+Metropolitano Oriente,222,Undirected,1639,,,1,LO BARNECHEA
+Metropolitano Oriente,223,Undirected,1640,,,1,LO BARNECHEA
+Metropolitano Oriente,224,Undirected,1641,,,1,LO BARNECHEA
+Metropolitano Oriente,225,Undirected,1642,,,1,LO BARNECHEA
+Metropolitano Oriente,226,Undirected,1643,,,1,LO BARNECHEA
+Metropolitano Oriente,227,Undirected,1644,,,1,LO BARNECHEA
+Metropolitano Oriente,228,Undirected,1645,,,1,LO BARNECHEA
+Metropolitano Sur,229,Undirected,1646,,,1,LO ESPEJO
+Metropolitano Sur,230,Undirected,1647,,,1,LO ESPEJO
+Metropolitano Sur,231,Undirected,1648,,,1,LO ESPEJO
+Metropolitano Occidente,232,Undirected,1649,,,1,LO PRADO
+Metropolitano Occidente,233,Undirected,1650,,,1,LO PRADO
+Metropolitano Occidente,234,Undirected,1651,,,1,LO PRADO
+Metropolitano Occidente,235,Undirected,1652,,,1,LO PRADO
+Metropolitano Occidente,236,Undirected,1653,,,1,LO PRADO
+Metropolitano Occidente,237,Undirected,1654,,,1,LO PRADO
+Metropolitano Oriente,238,Undirected,1655,,,1,MACUL
+Metropolitano Oriente,239,Undirected,1656,,,1,MACUL
+Metropolitano Oriente,240,Undirected,1657,,,1,MACUL
+Metropolitano Oriente,241,Undirected,1658,,,1,MACUL
+Metropolitano Oriente,242,Undirected,1659,,,1,MACUL
+Metropolitano Oriente,243,Undirected,1660,,,1,MACUL
+Metropolitano Oriente,244,Undirected,1661,,,1,MACUL
+Metropolitano Central,245,Undirected,1662,,,1,MAIPU
+Metropolitano Central,246,Undirected,1663,,,1,MAIPU
+Metropolitano Central,247,Undirected,1664,,,1,MAIPU
+Metropolitano Central,248,Undirected,1665,,,1,MAIPU
+Metropolitano Central,249,Undirected,1666,,,1,MAIPU
+Metropolitano Central,250,Undirected,1667,,,1,MAIPU
+Metropolitano Central,251,Undirected,1668,,,1,MAIPU
+Metropolitano Central,252,Undirected,1669,,,1,MAIPU
+Metropolitano Central,253,Undirected,1670,,,1,MAIPU
+Metropolitano Central,254,Undirected,1671,,,1,MAIPU
+Metropolitano Central,255,Undirected,1672,,,1,MAIPU
+Metropolitano Central,256,Undirected,1673,,,1,MAIPU
+Metropolitano Central,257,Undirected,1674,,,1,MAIPU
+Metropolitano Central,258,Undirected,1675,,,1,MAIPU
+Metropolitano Central,259,Undirected,1676,,,1,MAIPU
+Metropolitano Central,260,Undirected,1677,,,1,MAIPU
+Metropolitano Central,261,Undirected,1678,,,1,MAIPU
+Metropolitano Central,262,Undirected,1679,,,1,MAIPU
+Metropolitano Central,263,Undirected,1680,,,1,MAIPU
+Metropolitano Central,264,Undirected,1681,,,1,MAIPU
+Metropolitano Central,265,Undirected,1682,,,1,MAIPU
+Metropolitano Central,266,Undirected,1683,,,1,MAIPU
+Metropolitano Central,267,Undirected,1684,,,1,MAIPU
+Metropolitano Central,268,Undirected,1685,,,1,MAIPU
+Metropolitano Oriente,269,Undirected,1686,,,1,LA REINA
+Metropolitano Central,270,Undirected,1687,,,1,MAIPU
+Metropolitano Central,271,Undirected,1688,,,1,MAIPU
+Metropolitano Central,272,Undirected,1689,,,1,MAIPU
+Metropolitano Central,273,Undirected,1690,,,1,MAIPU
+Metropolitano Central,274,Undirected,1691,,,1,MAIPU
+Metropolitano Central,275,Undirected,1692,,,1,MAIPU
+Metropolitano Central,276,Undirected,1693,,,1,MAIPU
+Metropolitano Central,277,Undirected,1694,,,1,MAIPU
+Metropolitano Central,278,Undirected,1695,,,1,MAIPU
+Metropolitano Occidente,279,Undirected,1696,,,1,MELIPILLA
+Metropolitano Occidente,280,Undirected,1697,,,1,MELIPILLA
+Metropolitano Occidente,281,Undirected,1698,,,1,MELIPILLA
+Metropolitano Occidente,282,Undirected,1699,,,1,MELIPILLA
+Metropolitano Occidente,283,Undirected,1700,,,1,MELIPILLA
+Metropolitano Occidente,284,Undirected,1701,,,1,MELIPILLA
+Metropolitano Occidente,285,Undirected,1702,,,1,MELIPILLA
+Metropolitano Occidente,286,Undirected,1703,,,1,MELIPILLA
+Metropolitano Oriente,287,Undirected,1704,,,1,NUNOA
+Metropolitano Oriente,288,Undirected,1705,,,1,NUNOA
+Metropolitano Oriente,289,Undirected,1706,,,1,NUNOA
+Metropolitano Oriente,290,Undirected,1707,,,1,NUNOA
+Metropolitano Oriente,291,Undirected,1708,,,1,NUNOA
+Metropolitano Oriente,292,Undirected,1709,,,1,NUNOA
+Metropolitano Oriente,293,Undirected,1710,,,1,NUNOA
+Metropolitano Oriente,294,Undirected,1711,,,1,NUNOA
+Metropolitano Oriente,295,Undirected,1712,,,1,NUNOA
+Metropolitano Oriente,296,Undirected,1713,,,1,NUNOA
+Metropolitano Oriente,297,Undirected,1714,,,1,NUNOA
+Metropolitano Oriente,298,Undirected,1715,,,1,NUNOA
+Metropolitano Oriente,299,Undirected,1716,,,1,NUNOA
+Metropolitano Oriente,300,Undirected,1717,,,1,NUNOA
+Metropolitano Oriente,301,Undirected,1718,,,1,NUNOA
+Metropolitano Oriente,302,Undirected,1719,,,1,NUNOA
+Metropolitano Oriente,303,Undirected,1720,,,1,NUNOA
+Metropolitano Oriente,304,Undirected,1721,,,1,NUNOA
+Metropolitano Oriente,305,Undirected,1722,,,1,NUNOA
+Metropolitano Oriente,306,Undirected,1723,,,1,NUNOA
+Metropolitano Oriente,307,Undirected,1724,,,1,NUNOA
+Metropolitano Oriente,308,Undirected,1725,,,1,NUNOA
+Metropolitano Oriente,309,Undirected,1726,,,1,NUNOA
+Metropolitano Oriente,310,Undirected,1727,,,1,NUNOA
+Metropolitano Oriente,311,Undirected,1728,,,1,NUNOA
+Metropolitano Oriente,312,Undirected,1729,,,1,NUNOA
+Metropolitano Oriente,313,Undirected,1730,,,1,NUNOA
+Metropolitano Oriente,314,Undirected,1731,,,1,NUNOA
+Metropolitano Oriente,315,Undirected,1732,,,1,NUNOA
+Metropolitano Oriente,316,Undirected,1733,,,1,NUNOA
+Metropolitano Oriente,317,Undirected,1734,,,1,NUNOA
+Metropolitano Oriente,318,Undirected,1735,,,1,NUNOA
+Metropolitano Occidente,319,Undirected,1736,,,1,PADRE HURTADO
+Metropolitano Occidente,320,Undirected,1737,,,1,PADRE HURTADO
+Metropolitano Sur,321,Undirected,1738,,,1,PAINE
+Metropolitano Sur,322,Undirected,1739,,,1,PAINE
+Metropolitano Sur,323,Undirected,1740,,,1,PEDRO AGUIRRE CERDA
+Metropolitano Sur,324,Undirected,1741,,,1,PEDRO AGUIRRE CERDA
+Metropolitano Sur,325,Undirected,1742,,,1,PEDRO AGUIRRE CERDA
+Metropolitano Sur,326,Undirected,1743,,,1,PEDRO AGUIRRE CERDA
+Metropolitano Occidente,327,Undirected,1744,,,1,PENAFLOR
+Metropolitano Occidente,328,Undirected,1745,,,1,PENAFLOR
+Metropolitano Occidente,329,Undirected,1746,,,1,PENAFLOR
+Metropolitano Occidente,330,Undirected,1747,,,1,PENAFLOR
+Metropolitano Occidente,331,Undirected,1748,,,1,PENAFLOR
+Metropolitano Occidente,332,Undirected,1749,,,1,PENAFLOR
+Metropolitano Occidente,333,Undirected,1750,,,1,PENAFLOR
+Metropolitano Occidente,334,Undirected,1751,,,1,PENAFLOR
+Metropolitano Oriente,335,Undirected,1752,,,1,PENALOLEN
+Metropolitano Oriente,336,Undirected,1753,,,1,PENALOLEN
+Metropolitano Oriente,337,Undirected,1754,,,1,PENALOLEN
+Metropolitano Oriente,338,Undirected,1755,,,1,PENALOLEN
+Metropolitano Oriente,339,Undirected,1756,,,1,PENALOLEN
+Metropolitano Oriente,340,Undirected,1757,,,1,PENALOLEN
+Metropolitano Oriente,341,Undirected,1758,,,1,PENALOLEN
+Metropolitano Oriente,342,Undirected,1759,,,1,PENALOLEN
+Metropolitano Oriente,343,Undirected,1760,,,1,PENALOLEN
+Metropolitano Oriente,344,Undirected,1761,,,1,PENALOLEN
+Metropolitano Oriente,345,Undirected,1762,,,1,PENALOLEN
+Metropolitano Oriente,346,Undirected,1763,,,1,PENALOLEN
+Metropolitano Oriente,347,Undirected,1764,,,1,PENALOLEN
+Metropolitano Oriente,348,Undirected,1765,,,1,PENALOLEN
+Metropolitano Oriente,349,Undirected,1766,,,1,PENALOLEN
+Metropolitano Oriente,350,Undirected,1767,,,1,PENALOLEN
+Metropolitano Oriente,351,Undirected,1768,,,1,PENALOLEN
+Metropolitano Oriente,352,Undirected,1769,,,1,PENALOLEN
+Metropolitano Oriente,353,Undirected,1770,,,1,PENALOLEN
+Metropolitano Oriente,354,Undirected,1771,,,1,PENALOLEN
+Metropolitano Oriente,355,Undirected,1772,,,1,PENALOLEN
+Metropolitano Oriente,356,Undirected,1773,,,1,PENALOLEN
+Metropolitano Oriente,357,Undirected,1774,,,1,PENALOLEN
+Metropolitano Oriente,358,Undirected,1775,,,1,PENALOLEN
+Metropolitano Suroriente,359,Undirected,1776,,,1,PIRQUE
+Metropolitano Oriente,360,Undirected,1777,,,1,PROVIDENCIA
+Metropolitano Oriente,361,Undirected,1778,,,1,PROVIDENCIA
+Metropolitano Oriente,362,Undirected,1779,,,1,PROVIDENCIA
+Metropolitano Oriente,363,Undirected,1780,,,1,PROVIDENCIA
+Metropolitano Oriente,364,Undirected,1781,,,1,PROVIDENCIA
+Metropolitano Oriente,365,Undirected,1782,,,1,PROVIDENCIA
+Metropolitano Oriente,366,Undirected,1783,,,1,PROVIDENCIA
+Metropolitano Oriente,367,Undirected,1784,,,1,PROVIDENCIA
+Metropolitano Oriente,368,Undirected,1785,,,1,PROVIDENCIA
+Metropolitano Oriente,369,Undirected,1786,,,1,PROVIDENCIA
+Metropolitano Oriente,370,Undirected,1787,,,1,PROVIDENCIA
+Metropolitano Oriente,371,Undirected,1788,,,1,PROVIDENCIA
+Metropolitano Oriente,372,Undirected,1789,,,1,PROVIDENCIA
+Metropolitano Oriente,373,Undirected,1790,,,1,PROVIDENCIA
+Metropolitano Oriente,374,Undirected,1791,,,1,PROVIDENCIA
+Metropolitano Oriente,375,Undirected,1792,,,1,PROVIDENCIA
+Metropolitano Oriente,376,Undirected,1793,,,1,PROVIDENCIA
+Metropolitano Oriente,377,Undirected,1794,,,1,PROVIDENCIA
+Metropolitano Oriente,378,Undirected,1795,,,1,PROVIDENCIA
+Metropolitano Oriente,379,Undirected,1796,,,1,PROVIDENCIA
+Metropolitano Oriente,380,Undirected,1797,,,1,PROVIDENCIA
+Metropolitano Oriente,381,Undirected,1798,,,1,PROVIDENCIA
+Metropolitano Oriente,382,Undirected,1799,,,1,PROVIDENCIA
+Metropolitano Occidente,383,Undirected,1800,,,1,PUDAHUEL
+Metropolitano Occidente,384,Undirected,1801,,,1,PUDAHUEL
+Metropolitano Occidente,385,Undirected,1802,,,1,PUDAHUEL
+Metropolitano Occidente,386,Undirected,1803,,,1,PUDAHUEL
+Metropolitano Occidente,387,Undirected,1804,,,1,PUDAHUEL
+Metropolitano Occidente,388,Undirected,1805,,,1,PUDAHUEL
+Metropolitano Occidente,389,Undirected,1806,,,1,PUDAHUEL
+Metropolitano Occidente,390,Undirected,1807,,,1,PUDAHUEL
+Metropolitano Occidente,391,Undirected,1808,,,1,PUDAHUEL
+Metropolitano Occidente,392,Undirected,1809,,,1,PUDAHUEL
+Metropolitano Occidente,393,Undirected,1810,,,1,PUDAHUEL
+Metropolitano Occidente,394,Undirected,1811,,,1,PUDAHUEL
+Metropolitano Occidente,395,Undirected,1812,,,1,PUDAHUEL
+Metropolitano Occidente,396,Undirected,1813,,,1,PUDAHUEL
+Metropolitano Occidente,397,Undirected,1814,,,1,PUDAHUEL
+Metropolitano Occidente,398,Undirected,1815,,,1,PUDAHUEL
+Metropolitano Suroriente,399,Undirected,1816,,,1,PUENTE ALTO
+Metropolitano Suroriente,400,Undirected,1817,,,1,PUENTE ALTO
+Metropolitano Suroriente,401,Undirected,1818,,,1,PUENTE ALTO
+Metropolitano Suroriente,402,Undirected,1819,,,1,PUENTE ALTO
+Metropolitano Suroriente,403,Undirected,1820,,,1,PUENTE ALTO
+Metropolitano Suroriente,404,Undirected,1821,,,1,PUENTE ALTO
+Metropolitano Suroriente,405,Undirected,1822,,,1,PUENTE ALTO
+Metropolitano Suroriente,406,Undirected,1823,,,1,PUENTE ALTO
+Metropolitano Suroriente,407,Undirected,1824,,,1,PUENTE ALTO
+Metropolitano Suroriente,408,Undirected,1825,,,1,PUENTE ALTO
+Metropolitano Suroriente,409,Undirected,1826,,,1,PUENTE ALTO
+Metropolitano Suroriente,410,Undirected,1827,,,1,PUENTE ALTO
+Metropolitano Suroriente,411,Undirected,1828,,,1,PUENTE ALTO
+Metropolitano Suroriente,412,Undirected,1829,,,1,PUENTE ALTO
+Metropolitano Suroriente,413,Undirected,1830,,,1,PUENTE ALTO
+Metropolitano Suroriente,414,Undirected,1831,,,1,PUENTE ALTO
+Metropolitano Suroriente,415,Undirected,1832,,,1,PUENTE ALTO
+Metropolitano Suroriente,416,Undirected,1833,,,1,PUENTE ALTO
+Metropolitano Suroriente,417,Undirected,1834,,,1,PUENTE ALTO
+Metropolitano Suroriente,418,Undirected,1835,,,1,PUENTE ALTO
+Metropolitano Suroriente,419,Undirected,1836,,,1,PUENTE ALTO
+Metropolitano Suroriente,420,Undirected,1837,,,1,PUENTE ALTO
+Metropolitano Suroriente,421,Undirected,1838,,,1,PUENTE ALTO
+Metropolitano Suroriente,422,Undirected,1839,,,1,PUENTE ALTO
+Metropolitano Suroriente,423,Undirected,1840,,,1,PUENTE ALTO
+Metropolitano Suroriente,424,Undirected,1841,,,1,PUENTE ALTO
+Metropolitano Suroriente,425,Undirected,1842,,,1,PUENTE ALTO
+Metropolitano Suroriente,426,Undirected,1843,,,1,PUENTE ALTO
+Metropolitano Suroriente,427,Undirected,1844,,,1,PUENTE ALTO
+Metropolitano Suroriente,428,Undirected,1845,,,1,PUENTE ALTO
+Metropolitano Suroriente,429,Undirected,1846,,,1,PUENTE ALTO
+Metropolitano Suroriente,430,Undirected,1847,,,1,PUENTE ALTO
+Metropolitano Suroriente,431,Undirected,1848,,,1,PUENTE ALTO
+Metropolitano Suroriente,432,Undirected,1849,,,1,PUENTE ALTO
+Metropolitano Suroriente,433,Undirected,1850,,,1,PUENTE ALTO
+Metropolitano Norte,434,Undirected,1851,,,1,QUILICURA
+Metropolitano Norte,435,Undirected,1852,,,1,QUILICURA
+Metropolitano Norte,436,Undirected,1853,,,1,QUILICURA
+Metropolitano Norte,437,Undirected,1854,,,1,QUILICURA
+Metropolitano Norte,438,Undirected,1855,,,1,QUILICURA
+Metropolitano Norte,439,Undirected,1856,,,1,QUILICURA
+Metropolitano Norte,440,Undirected,1857,,,1,QUILICURA
+Metropolitano Norte,441,Undirected,1858,,,1,QUILICURA
+Metropolitano Norte,442,Undirected,1859,,,1,QUILICURA
+Metropolitano Norte,443,Undirected,1860,,,1,QUILICURA
+Metropolitano Occidente,444,Undirected,1861,,,1,QUINTA NORMAL
+Metropolitano Occidente,445,Undirected,1862,,,1,QUINTA NORMAL
+Metropolitano Occidente,446,Undirected,1863,,,1,QUINTA NORMAL
+Metropolitano Occidente,447,Undirected,1864,,,1,QUINTA NORMAL
+Metropolitano Occidente,448,Undirected,1865,,,1,QUINTA NORMAL
+Metropolitano Occidente,449,Undirected,1866,,,1,QUINTA NORMAL
+Metropolitano Occidente,450,Undirected,1867,,,1,QUINTA NORMAL
+Metropolitano Norte,451,Undirected,1868,,,1,RECOLETA
+Metropolitano Norte,452,Undirected,1869,,,1,RECOLETA
+Metropolitano Norte,453,Undirected,1870,,,1,RECOLETA
+Metropolitano Norte,454,Undirected,1871,,,1,RECOLETA
+Metropolitano Norte,455,Undirected,1872,,,1,RECOLETA
+Metropolitano Norte,456,Undirected,1873,,,1,RECOLETA
+Metropolitano Norte,457,Undirected,1874,,,1,RECOLETA
+Metropolitano Norte,458,Undirected,1875,,,1,RECOLETA
+Metropolitano Norte,459,Undirected,1876,,,1,RECOLETA
+Metropolitano Occidente,460,Undirected,1877,,,1,RENCA
+Metropolitano Occidente,461,Undirected,1878,,,1,RENCA
+Metropolitano Occidente,462,Undirected,1879,,,1,RENCA
+Metropolitano Occidente,463,Undirected,1880,,,1,RENCA
+Metropolitano Occidente,464,Undirected,1881,,,1,RENCA
+Metropolitano Occidente,465,Undirected,1882,,,1,RENCA
+Metropolitano Sur,466,Undirected,1883,,,1,SAN BERNARDO
+Metropolitano Sur,467,Undirected,1884,,,1,SAN BERNARDO
+Metropolitano Sur,468,Undirected,1885,,,1,SAN BERNARDO
+Metropolitano Sur,469,Undirected,1886,,,1,SAN BERNARDO
+Metropolitano Sur,470,Undirected,1887,,,1,SAN BERNARDO
+Metropolitano Sur,471,Undirected,1888,,,1,SAN BERNARDO
+Metropolitano Sur,472,Undirected,1889,,,1,SAN BERNARDO
+Metropolitano Sur,473,Undirected,1890,,,1,SAN BERNARDO
+Metropolitano Sur,474,Undirected,1891,,,1,SAN BERNARDO
+Metropolitano Sur,475,Undirected,1892,,,1,SAN BERNARDO
+Metropolitano Sur,476,Undirected,1893,,,1,SAN BERNARDO
+Metropolitano Sur,477,Undirected,1894,,,1,SAN BERNARDO
+Metropolitano Sur,478,Undirected,1895,,,1,SAN BERNARDO
+Metropolitano Sur,479,Undirected,1896,,,1,SAN BERNARDO
+Metropolitano Sur,480,Undirected,1897,,,1,SAN BERNARDO
+Metropolitano Sur,481,Undirected,1898,,,1,SAN JOAQUIN
+Metropolitano Sur,482,Undirected,1899,,,1,SAN JOAQUIN
+Metropolitano Sur,483,Undirected,1900,,,1,SAN JOAQUIN
+Metropolitano Sur,484,Undirected,1901,,,1,SAN JOAQUIN
+Metropolitano Sur,485,Undirected,1902,,,1,SAN JOAQUIN
+Metropolitano Suroriente,486,Undirected,1903,,,1,SAN JOSE DE MAIPO
+Metropolitano Sur,487,Undirected,1904,,,1,SAN MIGUEL
+Metropolitano Sur,488,Undirected,1905,,,1,SAN MIGUEL
+Metropolitano Sur,489,Undirected,1906,,,1,SAN MIGUEL
+Metropolitano Sur,490,Undirected,1907,,,1,SAN MIGUEL
+Metropolitano Sur,491,Undirected,1908,,,1,SAN MIGUEL
+Metropolitano Sur,492,Undirected,1909,,,1,SAN MIGUEL
+Metropolitano Sur,493,Undirected,1910,,,1,SAN MIGUEL
+Metropolitano Sur,494,Undirected,1911,,,1,SAN MIGUEL
+Metropolitano Sur,495,Undirected,1912,,,1,SAN MIGUEL
+Metropolitano Sur,496,Undirected,1913,,,1,SAN MIGUEL
+Metropolitano Sur,497,Undirected,1914,,,1,SAN MIGUEL
+Metropolitano Suroriente,498,Undirected,1915,,,1,SAN RAMON
+Metropolitano Suroriente,499,Undirected,1916,,,1,SAN RAMON
+Metropolitano Suroriente,500,Undirected,1917,,,1,SAN RAMON
+Metropolitano Central,501,Undirected,1918,,,1,SANTIAGO
+Metropolitano Central,502,Undirected,1919,,,1,SANTIAGO
+Metropolitano Central,503,Undirected,1920,,,1,SANTIAGO
+Metropolitano Central,504,Undirected,1921,,,1,SANTIAGO
+Metropolitano Central,505,Undirected,1922,,,1,SANTIAGO
+Metropolitano Central,506,Undirected,1923,,,1,SANTIAGO
+Metropolitano Central,507,Undirected,1924,,,1,SANTIAGO
+Metropolitano Central,508,Undirected,1925,,,1,SANTIAGO
+Metropolitano Central,509,Undirected,1926,,,1,SANTIAGO
+Metropolitano Central,510,Undirected,1927,,,1,SANTIAGO
+Metropolitano Central,511,Undirected,1928,,,1,SANTIAGO
+Metropolitano Central,512,Undirected,1929,,,1,SANTIAGO
+Metropolitano Central,513,Undirected,1930,,,1,SANTIAGO
+Metropolitano Central,514,Undirected,1931,,,1,SANTIAGO
+Metropolitano Central,515,Undirected,1932,,,1,SANTIAGO
+Metropolitano Central,516,Undirected,1933,,,1,SANTIAGO
+Metropolitano Central,517,Undirected,1934,,,1,SANTIAGO
+Metropolitano Central,518,Undirected,1935,,,1,SANTIAGO
+Metropolitano Central,519,Undirected,1936,,,1,SANTIAGO
+Metropolitano Central,520,Undirected,1937,,,1,SANTIAGO
+Metropolitano Central,521,Undirected,1938,,,1,SANTIAGO
+Metropolitano Central,522,Undirected,1939,,,1,SANTIAGO
+Metropolitano Central,523,Undirected,1940,,,1,SANTIAGO
+Metropolitano Central,524,Undirected,1941,,,1,SANTIAGO
+Metropolitano Central,525,Undirected,1942,,,1,SANTIAGO
+Metropolitano Central,526,Undirected,1943,,,1,SANTIAGO
+Metropolitano Central,527,Undirected,1944,,,1,SANTIAGO
+Metropolitano Central,528,Undirected,1945,,,1,SANTIAGO
+Metropolitano Central,529,Undirected,1946,,,1,SANTIAGO
+Metropolitano Central,530,Undirected,1947,,,1,SANTIAGO
+Metropolitano Central,531,Undirected,1948,,,1,SANTIAGO
+Metropolitano Central,532,Undirected,1949,,,1,SANTIAGO
+Metropolitano Central,533,Undirected,1950,,,1,SANTIAGO
+Metropolitano Central,534,Undirected,1951,,,1,SANTIAGO
+Metropolitano Central,535,Undirected,1952,,,1,SANTIAGO
+Metropolitano Central,536,Undirected,1953,,,1,SANTIAGO
+Metropolitano Central,537,Undirected,1954,,,1,SANTIAGO
+Metropolitano Central,538,Undirected,1955,,,1,SANTIAGO
+Metropolitano Central,539,Undirected,1956,,,1,SANTIAGO
+Metropolitano Central,540,Undirected,1957,,,1,SANTIAGO
+Metropolitano Central,541,Undirected,1958,,,1,SANTIAGO
+Metropolitano Occidente,542,Undirected,1959,,,1,TALAGANTE
+Metropolitano Central,543,Undirected,1960,,,1,MAIPU
+Metropolitano Occidente,544,Undirected,1961,,,1,TALAGANTE
+Metropolitano Occidente,545,Undirected,1962,,,1,TALAGANTE
+Metropolitano Occidente,546,Undirected,1963,,,1,TALAGANTE
+Metropolitano Occidente,547,Undirected,1964,,,1,TALAGANTE
+Metropolitano Occidente,548,Undirected,1965,,,1,TALAGANTE
+Metropolitano Occidente,549,Undirected,1966,,,1,TALAGANTE
+Metropolitano Norte,550,Undirected,1967,,,1,TILTIL
+Metropolitano Oriente,551,Undirected,1968,,,1,VITACURA
+Metropolitano Oriente,552,Undirected,1969,,,1,VITACURA
+Metropolitano Oriente,553,Undirected,1970,,,1,VITACURA
+Metropolitano Oriente,554,Undirected,1971,,,1,VITACURA
+Metropolitano Oriente,555,Undirected,1972,,,1,VITACURA
+Metropolitano Oriente,556,Undirected,1973,,,1,VITACURA
+Metropolitano Oriente,557,Undirected,1974,,,1,VITACURA
+Metropolitano Oriente,558,Undirected,1975,,,1,VITACURA
+Metropolitano Oriente,559,Undirected,1976,,,1,VITACURA
+Metropolitano Oriente,560,Undirected,1977,,,1,VITACURA
+Metropolitano Oriente,561,Undirected,1978,,,1,VITACURA
+Metropolitano Oriente,562,Undirected,1979,,,1,VITACURA
+Metropolitano Oriente,563,Undirected,1980,,,1,VITACURA
+Metropolitano Oriente,564,Undirected,1981,,,1,VITACURA
+Metropolitano Oriente,565,Undirected,1982,,,1,VITACURA
+Metropolitano Oriente,566,Undirected,1983,,,1,VITACURA
+Metropolitano Oriente,567,Undirected,1984,,,1,VITACURA
+Metropolitano Oriente,568,Undirected,1985,,,1,VITACURA
+Metropolitano Oriente,569,Undirected,1986,,,1,PENALOLEN
+Metropolitano Sur,570,Undirected,1987,,,1,SAN MIGUEL
+Metropolitano Central,571,Undirected,1988,,,1,SANTIAGO
+Metropolitano Norte,572,Undirected,1989,,,1,COLINA
+Metropolitano Norte,573,Undirected,1990,,,1,QUILICURA
+Metropolitano Suroriente,574,Undirected,1991,,,1,PUENTE ALTO
+Metropolitano Sur,575,Undirected,1992,,,1,PAINE
+Metropolitano Sur,576,Undirected,1993,,,1,SAN JOAQUIN
+Metropolitano Suroriente,577,Undirected,1994,,,1,LA FLORIDA
+Metropolitano Oriente,578,Undirected,1995,,,1,LAS CONDES
+Metropolitano Oriente,579,Undirected,1996,,,1,PROVIDENCIA
+Metropolitano Sur,580,Undirected,1997,,,1,SAN BERNARDO
+Metropolitano Oriente,581,Undirected,1998,,,1,LAS CONDES
+Metropolitano Sur,582,Undirected,1999,,,1,SAN JOAQUIN
+Metropolitano Central,583,Undirected,2000,,,1,MAIPU
+Metropolitano Norte,584,Undirected,2001,,,1,RECOLETA
+Metropolitano Oriente,585,Undirected,2002,,,1,LO BARNECHEA
+Metropolitano Occidente,586,Undirected,2003,,,1,PUDAHUEL
+Metropolitano Oriente,587,Undirected,2004,,,1,VITACURA
+Metropolitano Oriente,588,Undirected,2005,,,1,LA REINA
+Metropolitano Sur,589,Undirected,2006,,,1,SAN BERNARDO
+Metropolitano Oriente,590,Undirected,2007,,,1,LA REINA
+Metropolitano Oriente,591,Undirected,2008,,,1,LA REINA
+Metropolitano Oriente,592,Undirected,2009,,,1,LAS CONDES
+Metropolitano Oriente,593,Undirected,2010,,,1,VITACURA
+Metropolitano Suroriente,594,Undirected,2011,,,1,PUENTE ALTO
+Metropolitano Oriente,595,Undirected,2012,,,1,VITACURA
+Metropolitano Central,596,Undirected,2013,,,1,SANTIAGO
+Metropolitano Norte,597,Undirected,2014,,,1,RECOLETA
+Metropolitano Oriente,598,Undirected,2015,,,1,VITACURA
+Metropolitano Oriente,599,Undirected,2016,,,1,PROVIDENCIA
+Metropolitano Suroriente,600,Undirected,2017,,,1,LA PINTANA
+Metropolitano Suroriente,601,Undirected,2018,,,1,LA FLORIDA
+Metropolitano Oriente,602,Undirected,2019,,,1,NUNOA
+Metropolitano Sur,603,Undirected,2020,,,1,SAN BERNARDO
+Metropolitano Central,604,Undirected,2021,,,1,CERRILLOS
+Metropolitano Occidente,605,Undirected,2022,,,1,MELIPILLA
+Metropolitano Oriente,606,Undirected,2023,,,1,LA REINA
+Metropolitano Central,607,Undirected,2024,,,1,SANTIAGO
+Metropolitano Occidente,608,Undirected,2025,,,1,ISLA DE MAIPO
+Metropolitano Oriente,609,Undirected,2026,,,1,PROVIDENCIA
+Metropolitano Sur,610,Undirected,2027,,,1,SAN BERNARDO
+Metropolitano Suroriente,611,Undirected,2028,,,1,PUENTE ALTO
+Metropolitano Oriente,612,Undirected,2029,,,1,NUNOA
+Metropolitano Norte,613,Undirected,2030,,,1,QUILICURA
+Metropolitano Oriente,614,Undirected,2031,,,1,PROVIDENCIA
+Metropolitano Oriente,615,Undirected,2032,,,1,LO BARNECHEA
+Metropolitano Oriente,616,Undirected,2033,,,1,NUNOA
+Metropolitano Oriente,617,Undirected,2034,,,1,NUNOA
+Metropolitano Oriente,618,Undirected,2035,,,1,LA REINA
+Metropolitano Oriente,619,Undirected,2036,,,1,LO BARNECHEA
+Metropolitano Oriente,620,Undirected,2037,,,1,NUNOA
+Metropolitano Norte,621,Undirected,2038,,,1,COLINA
+Metropolitano Central,622,Undirected,2039,,,1,CERRILLOS
+Metropolitano Norte,623,Undirected,2040,,,1,COLINA
+Metropolitano Central,624,Undirected,2041,,,1,MAIPU
+Metropolitano Oriente,625,Undirected,2042,,,1,NUNOA
+Metropolitano Norte,626,Undirected,2043,,,1,HUECHURABA
+Metropolitano Central,627,Undirected,2044,,,1,ESTACION CENTRAL
+Metropolitano Oriente,628,Undirected,2045,,,1,NUNOA
+Metropolitano Oriente,629,Undirected,2046,,,1,NUNOA
+Metropolitano Sur,630,Undirected,2047,,,1,CALERA DE TANGO
+Metropolitano Oriente,631,Undirected,2048,,,1,LAS CONDES
+Metropolitano Sur,632,Undirected,2049,,,1,SAN BERNARDO
+Metropolitano Sur,633,Undirected,2050,,,1,SAN BERNARDO
+Metropolitano Norte,634,Undirected,2051,,,1,COLINA
+Metropolitano Occidente,635,Undirected,2052,,,1,PADRE HURTADO
+Metropolitano Suroriente,636,Undirected,2053,,,1,SAN RAMON
+Metropolitano Central,637,Undirected,2054,,,1,SANTIAGO
+Metropolitano Oriente,638,Undirected,2055,,,1,NUNOA
+Metropolitano Central,639,Undirected,2056,,,1,SANTIAGO
+Metropolitano Oriente,640,Undirected,2057,,,1,NUNOA
+Metropolitano Norte,641,Undirected,2058,,,1,HUECHURABA
+Metropolitano Suroriente,642,Undirected,2059,,,1,LA FLORIDA
+Metropolitano Oriente,643,Undirected,2060,,,1,NUNOA
+Metropolitano Suroriente,644,Undirected,2061,,,1,PUENTE ALTO
+Metropolitano Central,645,Undirected,2062,,,1,SANTIAGO
+Metropolitano Norte,646,Undirected,2063,,,1,QUILICURA
+Metropolitano Norte,647,Undirected,2064,,,1,COLINA
+Metropolitano Occidente,648,Undirected,2065,,,1,LO PRADO
+Metropolitano Central,649,Undirected,2066,,,1,MAIPU
+Metropolitano Oriente,650,Undirected,2067,,,1,PROVIDENCIA
+Metropolitano Oriente,651,Undirected,2068,,,1,PROVIDENCIA
+Metropolitano Central,652,Undirected,2069,,,1,SANTIAGO
+Metropolitano Central,653,Undirected,2070,,,1,SANTIAGO
+Metropolitano Occidente,654,Undirected,2071,,,1,PADRE HURTADO
+Metropolitano Sur,655,Undirected,2072,,,1,EL BOSQUE
+Metropolitano Norte,656,Undirected,2073,,,1,LAMPA
+Metropolitano Norte,657,Undirected,2074,,,1,INDEPENDENCIA
+Metropolitano Suroriente,658,Undirected,2075,,,1,LA GRANJA
+Metropolitano Central,659,Undirected,2076,,,1,MAIPU
+Metropolitano Sur,660,Undirected,2077,,,1,SAN MIGUEL
+Metropolitano Oriente,661,Undirected,2078,,,1,PROVIDENCIA
+Metropolitano Oriente,662,Undirected,2079,,,1,PENALOLEN
+Metropolitano Suroriente,663,Undirected,2080,,,1,LA FLORIDA
+Metropolitano Oriente,664,Undirected,2081,,,1,LAS CONDES
+Metropolitano Norte,665,Undirected,2082,,,1,HUECHURABA
+Metropolitano Sur,666,Undirected,2083,,,1,SAN MIGUEL
+Metropolitano Suroriente,667,Undirected,2084,,,1,LA FLORIDA
+Metropolitano Oriente,668,Undirected,2085,,,1,LAS CONDES
+Metropolitano Oriente,669,Undirected,2086,,,1,PROVIDENCIA
+Metropolitano Oriente,670,Undirected,2087,,,1,PENALOLEN
+Metropolitano Oriente,671,Undirected,2088,,,1,PROVIDENCIA
+Metropolitano Oriente,672,Undirected,2089,,,1,LAS CONDES
+Metropolitano Sur,673,Undirected,2090,,,1,CALERA DE TANGO
+Metropolitano Norte,674,Undirected,2091,,,1,QUILICURA
+Metropolitano Central,675,Undirected,2092,,,1,MAIPU
+Metropolitano Central,676,Undirected,2093,,,1,MAIPU
+Metropolitano Central,677,Undirected,2094,,,1,MAIPU
+Metropolitano Norte,678,Undirected,2095,,,1,COLINA
+Metropolitano Suroriente,679,Undirected,2096,,,1,LA FLORIDA
+Metropolitano Occidente,680,Undirected,2097,,,1,ISLA DE MAIPO
+Metropolitano Occidente,681,Undirected,2098,,,1,LO PRADO
+Metropolitano Suroriente,682,Undirected,2099,,,1,LA FLORIDA
+Metropolitano Oriente,683,Undirected,2100,,,1,NUNOA
+Metropolitano Central,684,Undirected,2101,,,1,SANTIAGO
+Metropolitano Sur,685,Undirected,2102,,,1,BUIN
+Metropolitano Occidente,686,Undirected,2103,,,1,RENCA
+Metropolitano Oriente,687,Undirected,2104,,,1,PROVIDENCIA
+Metropolitano Occidente,688,Undirected,2105,,,1,PENAFLOR
+Metropolitano Central,689,Undirected,2106,,,1,CERRILLOS
+Metropolitano Occidente,690,Undirected,2107,,,1,PADRE HURTADO
+Metropolitano Occidente,691,Undirected,2108,,,1,PUDAHUEL
+Metropolitano Occidente,692,Undirected,2109,,,1,PUDAHUEL
+Metropolitano Central,693,Undirected,2110,,,1,SANTIAGO
+Metropolitano Norte,694,Undirected,2111,,,1,COLINA
+Metropolitano Norte,695,Undirected,2112,,,1,INDEPENDENCIA
+Metropolitano Oriente,696,Undirected,2113,,,1,LAS CONDES
+Metropolitano Norte,697,Undirected,2114,,,1,HUECHURABA
+Metropolitano Oriente,698,Undirected,2115,,,1,MACUL
+Metropolitano Occidente,699,Undirected,2116,,,1,TALAGANTE
+Metropolitano Suroriente,700,Undirected,2117,,,1,LA FLORIDA
+Metropolitano Central,701,Undirected,2118,,,1,MAIPU
+Metropolitano Central,702,Undirected,2119,,,1,CERRILLOS
+Metropolitano Occidente,703,Undirected,2120,,,1,PADRE HURTADO
+Metropolitano Norte,704,Undirected,2121,,,1,CONCHALI
+Metropolitano Norte,705,Undirected,2122,,,1,QUILICURA
+Metropolitano Suroriente,706,Undirected,2123,,,1,PUENTE ALTO
+Metropolitano Central,707,Undirected,2124,,,1,MAIPU
+Metropolitano Suroriente,708,Undirected,2125,,,1,LA FLORIDA
+Metropolitano Central,709,Undirected,2126,,,1,ESTACION CENTRAL
+Metropolitano Occidente,710,Undirected,2127,,,1,PENAFLOR
+Metropolitano Oriente,711,Undirected,2128,,,1,VITACURA
+Metropolitano Central,712,Undirected,2129,,,1,SANTIAGO
+Metropolitano Norte,713,Undirected,2130,,,1,COLINA
